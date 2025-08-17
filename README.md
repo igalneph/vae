@@ -13,6 +13,8 @@ I will be glad to provide access upon request.
 
 ## Overview
 
+![](https://i.imgur.com/QvdWJfM.png)
+
 This project was completed as part of the **Advanced Course in Machine Learning**. It consists of two main parts:
 
 1. **Supervised Classification** – Implementing and training a CNN classifier on the MNIST dataset using PyTorch.
